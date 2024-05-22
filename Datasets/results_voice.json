@@ -1,0 +1,1543 @@
+[
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/26/2024, 12:53:51 PM",
+        "Transcribe_Text": [
+            "Today's food was with salmon patty, it's very crispy and with white sauce it's very good taste.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "6",
+        "Service_Rating": "4",
+        "id": "10_Ravintola Kastari_12:53:51 PM"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/20/2024, 1:01:35 PM",
+        "Transcribe_Text": [
+            "It's really good with white sauce and vegetables but the almond is a bit annoying since it's not roasted.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "6",
+        "Service_Rating": "4",
+        "id": "10_Ravintola Kastari_1:01:35 PM"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/18/2024, 1:19:36 PM",
+        "Transcribe_Text": [
+            "It was a nice experience. Today was the Asian food and it was really good taste and it's enough for the taste as well. I'm rating 3.5 out of the 5.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "3",
+        "ShareReview_Input": "4",
+        "Service_Rating": "4",
+        "id": "10_Ravintola Kastari_1:19:36 PM"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/25/2024, 1:40:39 PM",
+        "Transcribe_Text": [
+            "Today's food was fish and the white sauce was really good and I like the atmosphere because it's not so busy.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "6",
+        "Service_Rating": "4",
+        "id": "10_Ravintola Kastari_1:40:39 PM"
+    },
+    {
+        "Food_Rating": "2",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/19/2024, 1:51:48 PM",
+        "Transcribe_Text": [
+            "Today food was a bit not tasty like last year, not tasty like yesterday, but it's acceptable.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "3",
+        "ShareReview_Input": "7",
+        "Service_Rating": "4",
+        "id": "10_Ravintola Kastari_1:51:48 PM"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "14/03/2024, 21:15:44",
+        "Transcribe_Text": [
+            "FUBAR is just inside the R-Gate and it's one of the most popular places in the FUBAR. The staffs are really friendly although it's a very small restaurant and there are certain area where it's a booth kind of a sofa sitting area but that's really uncomfortable. I think if the sofas were not there rather there are open tables those are good. The restaurant is extremely clean it's very easy the foods are there but they run out of food quite quickly as it's near to most of the classrooms so I think they should they should have more more food more items. One or two times that happens that I went there and found out only vegetarian options are there other than that everything ran out and one day around 13 o'clock time I went there and I found out there is no other foods available. The catch-up section has quite a lot of variety it's a very good place to go. I often go to FUBAR to have lunch.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "11_Juvenes Restaurant Foobar_21:15:44"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "14/03/2024, 21:19:33",
+        "Transcribe_Text": [
+            "Food Garden is almost at the middle of, in between the WAMC and the University of Hulu campus. It's relatively a smaller restaurant, the seating areas are usually outside, but it's not that easy to get items, you know, seats inside. The restaurant, the place where we take food, it is not that big, so that's why most of the time we can see people are lining up in the corridor as well. The foods are good, but one time I saw in TUDO app that there are different foods listed, but when I went to Food Garden, I found out the items are not given, actually. When I asked the attendant, they said they do not watch the TUDO app, because you have to see our website, which was surprising to me, because for all other restaurants, we actually check out TUDO to find out what's the menu today. Other than that, it's a clean restaurant as well, the staffs are quite friendly, but I do not go to Food Garden that much, because of the lining up in the corridor area, and also it's a bit chaotic over there, as inside there are not many tables, and people usually sit outside, and then you have to turn the tray and clean it, so for this hassle, and I think there is no basin to wash your hands as well. So that's it.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "4",
+        "id": "11_Juvenes Restaurant Foodoo_21:19:33"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "14/03/2024, 21:17:13",
+        "Transcribe_Text": [
+            "Mara is at the end of the Oank campus. It looks like a very relatively smaller restaurant, but inside there are very nice seating areas. Only the catch-up area is very small and they need to improve it. Most of the time in Mara they serve, I think, beef patty more, which is very good. It's clean, but the biscuits and other items there, those are really expensive and I think the students, most of the time, they are not able to buy those things. Other than that, the foods are served warm and the staffs are really friendly. It's a clean restaurant, the food is warm, the atmosphere is good. The seating area is inside, there are bigger tables over there, so it's a good restaurant to be.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "11_Juvenes Restaurant Mara_21:17:13"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "14/03/2024, 21:10:49",
+        "Transcribe_Text": [
+            "Previously, Napa has been pretty bad in user experience or customer experience because people were rude, but from the last period, it has been quite okay. Napa is the only restaurant that opens up till late afternoon. Most of the time, it's a big sitting place, and it's closer to most of the classrooms. There can be two places from where you can take the food, and the foods are warm. The staffs are now quite good, but the bread area is a bit far away. Other than that, it has some problems with the scanners. Most of the time, I see that the To-Do app is not scanned properly. The food items served are quite good, but what I have found out that there is less amount of days when the beef patty is given. The cleanliness is quite good. It's quite well cleaned, but while taking the plates, there is a problem like the salad plates are actually put up on the salad bar. So a lot of the time, I have seen, in fact, myself have done this once, a problem that I took two big plates instead of the smaller salad plates because I didn't actually see them. All in all, Napa is a place, if you are late in your lunch, you know that Napa is open and you can go and have your late lunch in Napa.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "4",
+        "id": "11_Juvenes Restaurant Napa_21:10:49"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "14/03/2024, 21:13:42",
+        "Transcribe_Text": [
+            "Subway is the only place where you can actually go in the late afternoon or evening time and get food. It's not in the University of Oulu campus, rather it's on the University of Applied Sciences WAMC side. It's really far away from Tellus area. A lot of the time we don't actually go to Subway and in the Subway what we feel that there is coffee, which is quite good although it's a bit expensive. Other than that, the student discount is quite good over there and you can get typical Subway foods. It's the international standard. The foods are good, the staffs are really friendly, it's really clean. Usually the service is quite quick, you can get a variety of it. The only thing is they do not serve halal meat, so a lot of the Muslim students, they have problem in Subway. They only take tuna sandwich, they cannot have, other than tuna sandwich, they cannot have chicken or others. But I didn't find any other dessert items there, so I think the dessert items should be there, that would be helpful. All in all, it's a good place if you are working late, then it can be a good place where you can go and grab a quick bite of an internationally warm, tasty food.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "11_Subway_21:13:42"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "25/03/2024, 17:31:08",
+        "Transcribe_Text": [
+            "this photo during the daytime and overall it was a pleasant experience. There is always quite a bit of people so you have to wait in line but apart from that there are usually multiple different main course options and if you don't mind about the quite limited salad options then the experience will be great.\n",
+            "I went to Foodoo during the daytime and overall it was a pleasant experience. There is always quite a bit of people so you have to wait in line but apart from that there are usually multiple different main course options and if you don't mind about the quite limited salad options compared to other restaurants, the experience will be great."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "12_Juvenes Restaurant Foodoo_17:31:08"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "22/03/2024, 16:51:20",
+        "Transcribe_Text": [
+            "I think it was about around 12 or so, when we were completing this book, I had a question, like, a couple of minutes, which wasn't too long, I think, but it was definitely more than I would like to, especially because I was trying to be on time. Before I would go there, during the two-thrush hour, I was checking to make sure I had enough time to wait in line and get my food and drink. Because, unlike more private times, you can't just walk through the line and then get your food, you have to wait a month or two. Just like when getting food, you have to wait a certain amount of time as well, as it goes through the gate and stuff. So, if you're sitting in a place for a longer time, then you go there, for example.\n",
+            "I think it was about around 12 or so, when we went to Napa and it was completely full of people. We had to wait in line for a couple of minutes, which wasn't long, per se, but it was definitely more than I would like to, especially because I was in a hurry. If I were to go there again during the peak rush hour, I would make sure I had enough time to wait in line and get my food and eat. Because, unlike more private times, you can't just walk through the line and get your food, you have to wait in line. Just like when getting food, you have to wait to dispose the plates so it's not too quick of a process."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "3",
+        "ShareReview_Input": "4",
+        "Service_Rating": "4",
+        "id": "12_Juvenes Restaurant Napa_16:51:20"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "22/03/2024, 16:47:58",
+        "Transcribe_Text": [
+            "around 2 o'clock, and it was called a night shift. It was a place where we would sit, actually, and the doors would open and we would sit there for two to three weeks, and we weren't even sure if it was open, because it was a closed time. But after two weeks, there was a phone on the line for the person who received the phone The person didn't say the phone number, but it was kind of, I'm sure of the opening time of the night shift, and we would watch it more and make sure it was open.\n",
+            "We went to Kastari around 2 o'clock, and it was almost completely empty. It was so quiet that we weren't even sure if it was open, but after seeing food on the line we proceeded to get the food and the rest of the experience was lovely."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "12_Ravintola Kastari_16:47:58"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "22/03/2024, 16:55:26",
+        "Transcribe_Text": [
+            "I was really looking forward to those fish people that they have on their menu today. But, FYI, when I lived there, they didn't have that, they had something else. So that was a bit of a bummer, but also the share of the food that they do have was good, so I had a pleasant time there. But, you know, secondly, I talked with people once a day, once a week, and then went out to sell their products.\n",
+            "I was really looking forward to those fish people that they have on their menu today. But, FYI, when I lived there, they didn't have that, they had something else. So that was a bit of a bummer, but also the share of the food that they do have was good, so I had a pleasant time there. But, you know, secondly, I talked with people once a day, once a week, and then went out to sell their products.",
+            "When I went to Kastari, I was really looking forward to the tortillas that they had on their menu today. But, FYI, when I went there, they didn't have that, they had something else. So that was a bit of a bummer, but luckily the food that they did have was good, so I had a pleasant time there."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "4",
+        "id": "12_Ravintola Kastari_16:55:26"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "24/03/2024, 22:08:50",
+        "Transcribe_Text": [
+            "I went to Subway today and it was quite pleasant. It was one of the only places that was open since it was weekend. But it was pretty quiet. You didn't have to wait in line. The staff was nice and overall very pleasant. I had to go so I didn't stay there. But it was quite quiet so staying there would have been quite nice.\n",
+            "I went to Subway today and it was quite pleasant. It was one of the only places that was open since it was weekend. It was pretty quiet so you didn't have to wait in line. The staff was nice and the experience was overall very pleasant. I took the order to-go so I didn't stay there but it was quite quiet so staying there would have been nice too."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "12_Subway_22:08:50"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "3/18/2024, 7:00:47 PM",
+        "Transcribe_Text": [
+            "Fudo restaurant is not bad but when I visit Fudo restaurant it is more crowded than any other restaurant so it is very difficult to eat there. Otherwise it has very tasty food and everything.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "1",
+        "Service_Rating": "5",
+        "id": "13_Juvenes Restaurant Foodoo_7:00:47 PM"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "3/18/2024, 7:04:10 PM",
+        "Transcribe_Text": [
+            "I only eat it once because it only has salad, so actually it's very good, healthy. Sometimes I visit, sometimes I don't. Thank you.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "1",
+        "Service_Rating": "4",
+        "id": "13_Juvenes Restaurant Mara_7:04:10 PM"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "3/18/2024, 7:00:03 PM",
+        "Transcribe_Text": [
+            "most of the time I when I'm going to the university I eat Napa restaurant because the Napa restaurant is the only restaurant close after 5 so it's a very good and food are very tasty\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "1",
+        "Service_Rating": "5",
+        "id": "13_Juvenes Restaurant Napa_7:00:03 PM"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/18/2024, 7:03:35 PM",
+        "Transcribe_Text": [
+            "The Kasturi restaurant is a very good one because that restaurant has a lot of curries. So, as an Asian guy, we can't eat without curry. So, when I go to the university, I always visit the Kasturi.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "1",
+        "Service_Rating": "5",
+        "id": "13_Ravintola Kastari_7:03:35 PM"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "3/18/2024, 6:59:10 PM",
+        "Transcribe_Text": [
+            "Actually Subway is a good restaurant because when I am going to the university I never forget to visit Subway. Because the only reason is we can customize our burger. So if you want to add more meat we can add. If you want to add more spices we can add. So that's it. Thank you.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "1",
+        "Service_Rating": "5",
+        "id": "13_Subway_6:59:10 PM"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05778669409074,
+                "lng": 25.467668347355918
+            },
+            "name": "H2O"
+        },
+        "Date_Time": "15/03/2024, 15:11:39",
+        "Transcribe_Text": [
+            "I went there once time to see like how the food are like so it is pretty expensive for the students but it's cheap for like PhD students and other employees who work in the campus the food is like very very very healthy and it is not tasty as I expected but I know like if the food is healthy it would be not same if it is not tasty as well\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "4",
+        "id": "14_H2O_15:11:39"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "15/03/2024, 15:29:32",
+        "Transcribe_Text": [
+            "yeah Fudo also had like not big spaces but same kind of food like other restaurants in uni city within uni city and there's nothing special which I can explain here everything was normal\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "4",
+        "id": "14_Juvenes Restaurant Foodoo_15:29:32"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "15/03/2024, 15:28:00",
+        "Transcribe_Text": [
+            "I visited there once so food was very good we had some pasta options and rice and some meatballs it was really tasty food but there was big line there so I have to wait on line for couple of minutes before I got a chance to get food other than that everything was nice\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "4",
+        "id": "14_Juvenes Restaurant Mara_15:28:00"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "15/03/2024, 15:16:42",
+        "Transcribe_Text": [
+            "I think Nami is the most famous restaurant in the university It has so many options, especially burgers I am not sure whether it has pizza But there are so many burger options and one of my friends said It has something like this, fries with sauce after 5pm So, basically And It also Usually, I take lunch with I take all the lunches Instead of food, nothing more special, nothing special So, I could say it's better than other restaurants It has self-serve, self-service, self-cleaning machine And plenty of voice spaces to sit When I went there, I took normal lunch They had something with They had something with sausages\n",
+            "I think Nami is the most famous restaurant in the university It has so many options, especially burgers I am not sure whether it has pizza But there are so many burger options and one of my friends said It has something like this, fries with sauce after 5pm So, basically And It also Usually, I take lunch with I take all the lunches Instead of food, nothing more special, nothing special So, I could say it's better than other restaurants It has self-serve, self-service, self-payment machine And plenty of voice spaces to sit When I went there, I took normal lunch They had something with They had something with sausages"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "3",
+        "Service_Rating": "1",
+        "id": "14_Juvenes Restaurant Napa_15:16:42"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "15/03/2024, 15:30:47",
+        "Transcribe_Text": [
+            "This is my favorite restaurant because it has food that aligns with my cultural food So most of the time they have rice, something like curry which I mostly prefer Only downside is that it closes very early So sometimes when I go there and it's closed, I have to come back and go to another restaurant\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "14_Ravintola Kastari_15:30:47"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05778669409074,
+                "lng": 25.467668347355918
+            },
+            "name": "H2O"
+        },
+        "Date_Time": "05/04/2024, 23:12:43",
+        "Transcribe_Text": [
+            "So I went to H2O today. H2O was really good but I think the price is a little expensive for what it provides. But if you are rich and if you are a person that likes saddads, I think H2O is the best place to go in University of Bordeaux. That's it. Bye-bye.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "15_H2O_23:12:43"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "03/04/2024, 21:51:14",
+        "Transcribe_Text": [
+            "I went to Napa today and I had a burger. The burger was pretty good. It was chicken burger and everything was good.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "15_Juvenes Restaurant Napa_21:51:14"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "05/04/2024, 23:13:58",
+        "Transcribe_Text": [
+            "Well, Napa is my go-to place at the university, so they have a good selection and the seating area is very nice they have they never almost run out of space and Also, the occasional burger is also really nice. So yeah, it's a good one\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "15_Juvenes Restaurant Napa_23:13:58"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "05/04/2024, 23:13:23",
+        "Transcribe_Text": [
+            "Kasturi is really nice but sometimes the lady over there is, sometimes I think a little bit racist. Oh I don't know maybe she was in a bad mood the day I went to see her. But overall it's a good restaurant and they have like nice food.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "15_Ravintola Kastari_23:13:23"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "05/04/2024, 23:20:16",
+        "Transcribe_Text": [
+            "Subway is pretty good, and I really like Subway the the funny thing about Subway is that if you once you Once you get the order and you fill some survey on your receipt, and then you get an extra cookie So I think I like that about Subway So yeah\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "15_Subway_23:20:16"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "21.3.2024 21.43.05",
+        "Transcribe_Text": [
+            "I recently ate the double cheeseburger at FUBAR and like always the burger was excellent. I really enjoyed how they cooked the fries really crispy and the burger patty is always juicy but not undercooked. The salad was fresh and they had just refilled the cucumbers as well as the salad dressings. The juice that day was tasty I'd give it a 5 out of 5 stars.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "17_Juvenes Restaurant Foobar_21.43.05"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "20.3.2024 17.16.05",
+        "Transcribe_Text": [
+            "I went to eat at Voodoo today. They were serving chicken thighs in a curry sauce. They were running quite low on the warm vegetables, but it was quite close to closing time, so I don't really blame them. The chicken was tender and delicious. Bread was nice. They had just refilled the bread selection. The crust was crispy and it was soft on the inside. I thoroughly enjoyed the quick lunch I had today. I'd give it five stars.\n",
+            "I went to eat at Foodoo today. They were serving chicken thighs and a curry sauce. They were running quite low on the warm vegetables, but it was quite close to closing time, so I don't really blame them. The chicken was tender and delicious. Bread was nice. The crust was crispy and it was soft on the inside. I thoroughly enjoyed the quick lunch I had today. I'd give it five stars."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "17_Juvenes Restaurant Foodoo_17.16.05"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "21.3.2024 21.50.37",
+        "Transcribe_Text": [
+            "I had sausages at Froodoop, they had a cheesy sauce with them that I don't particularly like but it was not too overpowering so I didn't mind. To my disappointment, they had run out of croutons, you know, those little crispy bread cubes, but I guess you can't always win. Food was nice, it was a quick lunch between lectures. Let's give it a 3 out of 5 stars.\n",
+            "I had sausages at Foodoo. They had a cheesy sauce with them that I don't particularly like but it was not too overpowering so I didn't mind. To my disappointment, they had run out of croutons, you know, those little crispy bread cubes, but I guess you can't always win. Food was nice, it was a quick lunch between lectures. Let's give it a 3 out of 5 stars."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "17_Juvenes Restaurant Foodoo_21.50.37"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "21.3.2024 21.48.17",
+        "Transcribe_Text": [
+            "I had the soup lunch at Napa. They had ginger carrot soup. I was delighted at the creaminess, even though it had no dairy in it, which is always a plus. They had a great selection of spreads for bread. There was both pepper spread, garlic spread and herbal spread. Bread was fresh out of the oven, still warm, very nice. I give it a 5 out of 5 stars.\n",
+            "I had the soup lunch at Napa. They had ginger carrot soup. I was delighted at the creaminess, even though it had no dairy in it, which is always a plus. They had a great selection of spreads for bread. There was pepper spread, garlic spread and herbal spread. Bread was fresh out of the oven, still warm. Very nice. I give it a 5 out of 5 stars."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "17_Juvenes Restaurant Napa_21.48.17"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "21.3.2024 21.45.43",
+        "Transcribe_Text": [
+            "I had a chicken teriyaki Subway, all the fresh ingredients were recently refilled. Only complaint I would have was that even though I did not order any onions in my sandwich, I still found a piece that must have ended up there from some other veggies. Taste was good, despite of it, I'd give it a solid 4 out of 5 stars.\n",
+            "I had a chicken teriyaki Subway, all the fresh ingredients were recently refilled. Only complaint I would have was that even though I did not order any onions in my sandwich, I still found a piece that must have ended up there from some other veggies. Taste was good despite of it, I'd give it a solid 4 out of 5 stars."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "5",
+        "id": "17_Subway_21.45.43"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "13/03/2024, 20:47:28",
+        "Transcribe_Text": [
+            "This restaurant is too small to dine, like in rush hour, we can't sometimes find a place to sit even. So therefore, this restaurant has average dining experience.\n",
+            "This restaurant is too small to dine, therefore like in rush hour, we can't sometimes find a place to sit even. So therefore, this restaurant has average dining experience."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "4",
+        "Service_Rating": "3",
+        "id": "1_Juvenes Restaurant Foodoo_20:47:28"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "13/03/2024, 20:50:37",
+        "Transcribe_Text": [
+            "This restaurant is at the very end of the university, they offer like a dining experience at this restaurant is good, but we don't visit this restaurant often, and like they can open a branch restaurant in the university, like in the very end, like near the Napa, it would be great.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "2",
+        "Service_Rating": "4",
+        "id": "1_Juvenes Restaurant Foodoo_20:50:37"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "13/03/2024, 20:45:55",
+        "Transcribe_Text": [
+            "dining experience is good but the place is too much crowded actually I would say they are less crowded if the place is less crowded it will be great\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "4",
+        "Service_Rating": "4",
+        "id": "1_Juvenes Restaurant Napa_20:45:55"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "13/03/2024, 20:48:18",
+        "Transcribe_Text": [
+            "This restaurant has the best dining experience, the atmosphere is quiet, it's not much crowded as well and the food is also good.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "3",
+        "id": "1_Ravintola Kastari_20:48:18"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "13/03/2024, 20:49:25",
+        "Transcribe_Text": [
+            "I don't like the atmosphere of this restaurant to dine. Mostly I take away the food. If they can improve the atmosphere, like environment, I would like to consider dining here.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "4",
+        "id": "1_Subway_20:49:25"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "06/03/2024, 10:43:25",
+        "Transcribe_Text": [
+            "Usual restaurant, go to restaurant is Phooba. I like the taste of the food and also even though it is a UNS restaurant, I find always different food than Napa and other places. So I usually go to Phooba and I like the taste of the food and especially chicken meatballs with herbs, yeah.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "2_Juvenes Restaurant Foobar_10:43:25"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "06/03/2024, 10:55:01",
+        "Transcribe_Text": [
+            "The food is the same like Napa. I always find the same menu in Napa and Fudo. The atmosphere is really nice. I like to dine in Fudo than Napa even though the food is the same but it's in one corner so it's kind of not accessible for me. But the service is good. However, I prefer mostly to pay to the cashier not to the cashier but to the machine, payment machine that is more convenient for me than taking everything and go to cashier.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "3",
+        "Service_Rating": "4",
+        "id": "2_Juvenes Restaurant Foodoo_10:55:01"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "06/03/2024, 10:51:43",
+        "Transcribe_Text": [
+            "My second go-to restaurant is Napa. I like the food taste, yeah. It's somewhat okay but not all the time. Some food are really nice but some are not. But I like the burgers there. Those are really good. However, during the peak hours like 11 to 12, it is really crowded and the food queue is really long. So, I'm not preferred to go to Napa during that time. But if I have to, if I don't have other options, I always go to Napa. However, I like the service. And food somewhat, yeah.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "2_Juvenes Restaurant Napa_10:51:43"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "06/03/2024, 10:47:25",
+        "Transcribe_Text": [
+            "Kasturi few times. I usually don't go to Kasturi because it's in the other end of the university so it is kind of for me it's it's kind of hard for me to go to Kasturi but during the first few times I tried Kasturi the food was not that great I must say even though those are the food that I usually take the food taste was not good but recently I tried like two times Kasturi and those times it was really good I really liked the salads combination and the food taste was also really nice yeah\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "2_Ravintola Kastari_10:47:25"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "06/03/2024, 10:57:58",
+        "Transcribe_Text": [
+            "really like Subway because Subway is always good but I rarely go to Subway because it's kind of expensive than taking lunch from other restaurants but whenever I have too much work I go to Subway and grab a Submarine or something so I can eat it fast and the service is really good it's it's fast and it is also cheap comparing to other other Subway restaurants outside the university so yeah I love Subway\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "3",
+        "Service_Rating": "5",
+        "id": "2_Subway_10:57:58"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05778669409074,
+                "lng": 25.467668347355918
+            },
+            "name": "H2O"
+        },
+        "Date_Time": "18/03/2024, 15:50:54",
+        "Transcribe_Text": [
+            "Tasty and organic dishes are available, even the salads are very tasty and there is a broad variety at its own expensive price.\n",
+            "Tasty and organic dishes are available, even the salads are very tasty and but are on the expensive price."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "3",
+        "Service_Rating": "4",
+        "id": "3_H2O_15:50:54"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "18/03/2024, 15:46:49",
+        "Transcribe_Text": [
+            "Mostly students prefer to eat lunch here because all of their friends prefer this place over any other because it is very near to the classroom.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "7",
+        "Service_Rating": "4",
+        "id": "3_Juvenes Restaurant Mara_15:46:49"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "18/03/2024, 15:47:35",
+        "Transcribe_Text": [
+            "Good lunch option, student discount is also available, order a nice tasty meal.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "6",
+        "Service_Rating": "4",
+        "id": "3_Juvenes Restaurant Napa_15:47:35"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "18/03/2024, 15:49:52",
+        "Transcribe_Text": [
+            "Have good dining space, affordable student lunches, nice place to have lunch.\n",
+            "Have good dining space, affordable student lunches, nice place to have basic lunch."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "2",
+        "Service_Rating": "4",
+        "id": "3_Juvenes Restaurant Napa_15:49:52"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "18/03/2024, 15:48:23",
+        "Transcribe_Text": [
+            "My favorite restaurant in Africa, Cafe Hut. My favorite restaurant in Africa, Cafe Hut.\n",
+            "My favorite restaurant in University, after cafe hub. It offers several salad varieties."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "1",
+        "Service_Rating": "4",
+        "id": "3_Ravintola Kastari_15:48:23"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "18/03/2024, 15:45:37",
+        "Transcribe_Text": [
+            "It was 4 out of a good restaurant. You can find all vegetarian, vegan and meat options. And even the staff was friendly.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "7",
+        "Service_Rating": "4",
+        "id": "3_Subway_15:45:37"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05778669409074,
+                "lng": 25.467668347355918
+            },
+            "name": "H2O"
+        },
+        "Date_Time": "19/03/2024, 08:14:21",
+        "Transcribe_Text": [
+            "yeah it seems a nice restaurant the foods always tasty and the food looks fresh all the time I think it's a very nice restaurant\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "4",
+        "id": "4_H2O_08:14:21"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "19/03/2024, 08:12:53",
+        "Transcribe_Text": [
+            "Yeah, the restaurant seems fine. I haven't found any fault in the serving or any kind of food. So, that's 4 out of 5.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "4_Juvenes Restaurant Foobar_08:12:53"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "19/03/2024, 08:15:51",
+        "Transcribe_Text": [
+            "it's a good restaurant but the serving the staff are not present all the time there I think it would be better if they're all guiding us what to put on all\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "4_Juvenes Restaurant Foodoo_08:15:51"
+    },
+    {
+        "Food_Rating": "2",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "19/03/2024, 08:18:28",
+        "Transcribe_Text": [
+            "the same for Mara I don't know I don't go there it seems very crowded all the time that's why I don't visit that restaurant and the food is not that great and compared to Kastel\n"
+        ],
+        "Atmosphere_Rating": "2",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "4_Juvenes Restaurant Mara_08:18:28"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "19/03/2024, 08:16:28",
+        "Transcribe_Text": [
+            "Fubar is a very nice restaurant, I think so. I also go there all the time. Most of the time I am in Fubar. I like that restaurant.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "4_Juvenes Restaurant Napa_08:16:28"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "19/03/2024, 08:17:27",
+        "Transcribe_Text": [
+            "Napa is not my go to place, it's not my favorite restaurant, I don't know why, I don't like that food there.\n",
+            "Napa is not my go to place, it's not my favorite restaurant, I don't know why, I don't like that food there."
+        ],
+        "Atmosphere_Rating": "3",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "3",
+        "id": "4_Juvenes Restaurant Napa_08:17:27"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "19/03/2024, 08:15:08",
+        "Transcribe_Text": [
+            "yeah it's one of my favorite restaurant I go very often I visit very often to that restaurant I love the food there yeah\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "4_Ravintola Kastari_08:15:08"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "19/03/2024, 08:19:23",
+        "Transcribe_Text": [
+            "yeah Subway is very nice restaurant it has a variety of options I think but the customer service is also good but I think the prices are a bit expensive than others I think it would be better if prices are little cost-effective so that everyone can go there\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "5",
+        "id": "4_Subway_08:19:23"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "21.3.2024 10.24.25",
+        "Transcribe_Text": [
+            "Here in the living room is the best cabinet space in the house. There are two walls that open into a window. Very bright and comfortable. For example, in winter, when there is snow, it brings a lot of light.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "1",
+        "Service_Rating": "5",
+        "id": "5_Juvenes Restaurant Foobar_10.24.25"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "21.3.2024 12.46.30",
+        "Transcribe_Text": [
+            "Today we had some delicious fish pastries for lunch. There were a lot of different options. There was a variety of salads, tomatoes, aigaky\u00f6ksi\u00e4, smoked meat, and the most expensive option looked good. It was a kind of pastries that were filled.\n",
+            "Today we had some delicious fish pastries for lunch. There were a lot of different options. There was a variety of salads, tomatoes, aigaky\u00f6ksi\u00e4, smoked meat, and the most expensive option looked good. It was a kind of pastries that were filled."
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "2",
+        "Service_Rating": "4",
+        "id": "5_Juvenes Restaurant Foodoo_12.46.30"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "22.3.2024 15.10.08",
+        "Transcribe_Text": [
+            "Very good baked sausage, basic muesli, this kind of everyday food. Then good habanero salad. Salad was good, basic salad. I don't know why I'm talking like this. I don't know why I'm talking like this. I don't know why I'm talking like this.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "1",
+        "Service_Rating": "5",
+        "id": "5_Juvenes Restaurant Napa_15.10.08"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "19.3.2024 17.00.28",
+        "Transcribe_Text": [
+            "Yesterday I had my nose washed.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "5",
+        "Service_Rating": "4",
+        "id": "5_Juvenes Restaurant Napa_17.00.28"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "19.3.2024 17.06.21",
+        "Transcribe_Text": [
+            "In Kastari it's always nice to eat, it's usually peaceful and harmonious around.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "2",
+        "Service_Rating": "5",
+        "id": "5_Ravintola Kastari_17.06.21"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "08/03/2024, 17:38:32",
+        "Transcribe_Text": [
+            "Food though is a good restaurant in the university. It has many eating options like mashed potatoes, chicken, vegetables and the thing about this is they take care of the hygiene very well, they take care of the hygiene and the food is tasty and it's easy to get in and have your food and get out.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "6_Juvenes Restaurant Foodoo_17:38:32"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "08/03/2024, 17:41:56",
+        "Transcribe_Text": [
+            "Juvenile restaurant, it's a good restaurant again Again, the hygiene is good. They have good food, but to one time The chicken, their chicken is not very much fried Like when you eat it and like Deep inside it's not well cooked Other things I haven't tried that much and yeah, the coffee is also good You\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "3",
+        "Service_Rating": "5",
+        "id": "6_Juvenes Restaurant Mara_17:41:56"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "08/03/2024, 17:40:57",
+        "Transcribe_Text": [
+            "Hey, about Napa, Napa is like I would like to say I like their coffee and I haven't eaten any food there but I like their coffee. It's economical and they serve good coffee. Again the hygiene is well kept and the staff is very cooperative and very professional.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "6_Juvenes Restaurant Napa_17:40:57"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "08/03/2024, 17:42:53",
+        "Transcribe_Text": [
+            "Yes, Kastari is again a good restaurant. It is well cleaned, the staff is very professional, like very cooperative, and the food is also very good. And again, the hygiene, it's a well-kept restaurant, and they care about the hygiene. The food is the mashed potatoes they get.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "6_Ravintola Kastari_17:42:53"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "08/03/2024, 17:39:57",
+        "Transcribe_Text": [
+            "Subway is a good brand like there are a lot of subways outlets out there but in the university they're pretty good like I like their Sub-E, the wastable Sub-E it's very good and the thing is the only thing this is like it's new to OMAC but it's a bit far from the from my department like the e-block wireless communications and overall experience is good the hygiene again I would say but sometimes it's a popular brand so sometimes there are long queues so one has to wait to get his food\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "4",
+        "Service_Rating": "5",
+        "id": "6_Subway_17:39:57"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "15.3.2024 11.27.57",
+        "Transcribe_Text": [
+            "Today I had lunch at Fubar and the experience was pretty good. I find the place to be a little bit small but still the food was acceptable. They had chicken yesterday and it looked really good and also they offer vegan options that are acceptable for most of the occasions. Yesterday the lunch was good and I chose the vegan pasta which was quite tasty. Overall the food was complete and nutritious and I will wrap it.\n",
+            "Yesterday I had lunch at Foobar and the experience was pretty good. I find the place to be a little bit small but still the food was acceptable. They had chicken yesterday and it looked really good and also they offer vegan options that are acceptable for most of the occasions. Yesterday the lunch was good and I chose the vegan pasta which was quite tasty. Overall the food was complete and nutritious and I will repeat."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "7_Juvenes Restaurant Foobar_11.27.57"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "15.3.2024 11.30.39",
+        "Transcribe_Text": [
+            "big dining hall which I like. The food is also very good and I like the different main courses that they offer. The side courses are good and the customer service is very kind. I really like that they offer vegan options even though I think that sometimes the vegan options are not that complete and nutritious. Overall, I'm happy with my experience at Fudu and I will repeat. Also, the selection of breads and seeds and sauces is very good.\n",
+            "big dining hall which I like. The food is also very good and I like the different main courses that they offer. The side courses are good and the customer service is very kind. I really like that they offer vegan options even though I think that sometimes the vegan options are not that complete and nutritious. Overall, I'm happy with my experience at Fudu and I will repeat. Also, the selection of breads and seeds and sauces is very good.",
+            "big dining hall which I like. The food is also very good and I like the different main courses that they offer. The side courses are good and the customer service is very kind. I really like that they offer vegan options even though I think that sometimes the vegan options are not that complete and nutritious. Overall, I'm happy with my experience at Foodoo and I will repeat. Also, the selection of breads and seeds and sauces is very good."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "7_Juvenes Restaurant Foodoo_11.30.39"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "15.3.2024 11.22.27",
+        "Transcribe_Text": [
+            "Yesterday was pretty good, the food was quite acceptable and there was plenty of options. I really like the chicken and the different salad options. Overall, quite acceptable.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "7_Juvenes Restaurant Napa_11.22.27"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "15.3.2024 11.26.02",
+        "Transcribe_Text": [
+            "Castori is my favorite student's canteen. It offers the best salad options and the best main courses. Also the spreads are really good and it makes me happy when I see that they have hummus which is better than the rest of hummus provided by other restaurants. Overall Castori offers a good customer service experience and the lunch options are very tasty and also nutritious.\n",
+            "Kastari is my favorite student's canteen. It offers the best salad options and the best main courses. Also the spreads are really good and it makes me happy when I see that they have hummus which is better than the rest of hummus provided by other restaurants. Overall Kastari offers a good customer service experience and the lunch options are very tasty and also nutritious."
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "7_Ravintola Kastari_11.26.02"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "15.3.2024 11.24.08",
+        "Transcribe_Text": [
+            "half subi, so a sandwich of 15 centimeters and it was pretty good. The service was fast even though I find the price to be a little bit expensive even considering the student discount. I like especially that you can put so many different options of salads to your sandwich and choose also the kind of bread that you want for your sandwich. Overall it was a good experience and the sandwich was filling.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "7_Subway_11.24.08"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05835803688187,
+                "lng": 25.466745998683635
+            },
+            "name": "Juvenes Restaurant Foobar"
+        },
+        "Date_Time": "3/12/2024, 2:51:09 PM",
+        "Transcribe_Text": [
+            "I like the atmosphere in FUBAR, this restaurant, their food is alright, but they could perhaps improve a bit on the service because I appreciate that they clean the tables, but perhaps not when we're eating, they clean it a bit too often, it feels like we're not being welcomed and also not very gentle enough, and sometimes the breadcrumbs from the next table that they're cleaning kind of splashed around everywhere and sometimes it got on my lap, so perhaps the service could be improved there.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "3",
+        "ShareReview_Input": "3",
+        "Service_Rating": "2",
+        "id": "9_Juvenes Restaurant Foobar_2:51:09 PM"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06079845565952,
+                "lng": 25.466466998683735
+            },
+            "name": "Juvenes Restaurant Foodoo"
+        },
+        "Date_Time": "3/12/2024, 2:47:13 PM",
+        "Transcribe_Text": [
+            "This restaurant has the best croutons on campus and I've never been to other restaurants that have better croutons than this restaurant. I just love their croutons a lot and the food quality is usually very good. I don't really like their vegetarian food but other food is good and I really love the atmosphere.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "6",
+        "Service_Rating": "4",
+        "id": "9_Juvenes Restaurant Foodoo_2:47:13 PM"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06119392580896,
+                "lng": 25.468024712175737
+            },
+            "name": "Juvenes Restaurant Mara"
+        },
+        "Date_Time": "3/12/2024, 2:44:19 PM",
+        "Transcribe_Text": [
+            "I think the restaurant is a bit counterintuitive, I mean the flow of how we get the food is different from other restaurants. In other restaurants we start first with the salad and the main dish, but in Mara it's just different.\n"
+        ],
+        "Atmosphere_Rating": "2",
+        "Overall_Rating": "2",
+        "ShareReview_Input": "2",
+        "Service_Rating": "3",
+        "id": "9_Juvenes Restaurant Mara_2:44:19 PM"
+    },
+    {
+        "Food_Rating": "3",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05941493275516,
+                "lng": 25.46612951217566
+            },
+            "name": "Juvenes Restaurant Napa"
+        },
+        "Date_Time": "3/12/2024, 2:45:59 PM",
+        "Transcribe_Text": [
+            "I really appreciate that Napa opens on Saturdays and for dinners until 6pm from Monday to Thursday and until 5pm on Fridays. It helps me a lot when I have late classes. The food is alright.\n"
+        ],
+        "Atmosphere_Rating": "4",
+        "Overall_Rating": "4",
+        "ShareReview_Input": "4",
+        "Service_Rating": "2",
+        "id": "9_Juvenes Restaurant Napa_2:45:59 PM"
+    },
+    {
+        "Food_Rating": "5",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.05716021329793,
+                "lng": 25.46753835453169
+            },
+            "name": "Ravintola Kastari"
+        },
+        "Date_Time": "3/12/2024, 2:48:55 PM",
+        "Transcribe_Text": [
+            "I like the atmosphere of this restaurant and they offer different food from other restaurants and I really like them because they feel like home cooked food and I really like that they have different seasonings for example lime salt for fish dishes and they have different spreads and they even sometimes give us extra jam from other dishes or from the previous days I really love their cakes and sweets I just love this restaurant.\n"
+        ],
+        "Atmosphere_Rating": "5",
+        "Overall_Rating": "5",
+        "ShareReview_Input": "7",
+        "Service_Rating": "5",
+        "id": "9_Ravintola Kastari_2:48:55 PM"
+    },
+    {
+        "Food_Rating": "4",
+        "Selected_Restaurant": {
+            "coordinates": {
+                "lat": 65.06100168513277,
+                "lng": 25.46661923595951
+            },
+            "name": "Subway"
+        },
+        "Date_Time": "3/12/2024, 2:42:47 PM",
+        "Transcribe_Text": [
+            "I really enjoy going to Subway. They have the best sandwich bread on campus and I really like that I can choose different salads and I mean vegetables and fillings for my sandwich. I can choose different wide variety of spices and sauces to go with my sandwich and best of all they heat my sandwich up so the cheese melt and the bread is warm and crispy. Their chocolate cookie and drinks are great as well.\n"
+        ],
+        "Atmosphere_Rating": "2",
+        "Overall_Rating": "3",
+        "ShareReview_Input": "5",
+        "Service_Rating": "4",
+        "id": "9_Subway_2:42:47 PM"
+    }
+]
